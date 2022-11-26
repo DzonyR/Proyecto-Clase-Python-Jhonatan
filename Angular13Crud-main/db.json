@@ -1,0 +1,77 @@
+{
+  "productList": [
+    {
+      "productName": "Monitor 19 pulgadas",
+      "category": "Monitores",
+      "freshness": "Nuevos",
+      "price": 450000,
+      "comment": "Monitor 19 pulgadas 1280 x 768P",
+      "date": "2022-11-01T05:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Teclado Redragon",
+      "category": "Teclados",
+      "freshness": "Nuevos",
+      "price": 260000,
+      "comment": "Teclado Kurama k500 redragon",
+      "date": "2022-11-02T05:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Monitor Samgsumg 24 pulgadas",
+      "category": "Monitores",
+      "freshness": "Nuevos",
+      "price": 765000,
+      "comment": "Monitor Curvo 2k",
+      "date": "2022-11-10T05:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Asrock a320",
+      "category": "Placas",
+      "freshness": "Nuevos",
+      "price": 820000,
+      "comment": "Asrock Amd",
+      "date": "2022-11-12T05:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Asus B400",
+      "category": "Placas",
+      "freshness": "Nuevos",
+      "price": 7680000,
+      "comment": "Asus",
+      "date": "2022-11-03T05:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Monitor VSG 27 pulgadas",
+      "category": "Camisas",
+      "freshness": "Nuevos",
+      "price": 35000,
+      "comment": "Monitor Curvo 4k",
+      "date": "2022-11-10T05:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Gtx 1650ti PNY",
+      "category": "Placas",
+      "freshness": "Nuevos",
+      "price": 1260000,
+      "comment": "Nvidia",
+      "date": "2022-11-03T05:00:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
